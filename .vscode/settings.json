@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"sdl.h": "c",
+		"new": "cpp",
+		"deque": "cpp",
+		"string": "cpp",
+		"vector": "cpp",
+		"skypond.h": "c",
+		"stdarg.h": "c"
+	}
+}
